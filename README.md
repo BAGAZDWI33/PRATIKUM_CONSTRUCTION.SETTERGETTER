@@ -80,6 +80,7 @@ code override lainnya
     }
 
 
+code overide lainnya
 
 
     @Override
@@ -131,7 +132,8 @@ code setter getter lainnya
 
     }
 
-
+dan setter getter lainnya
+code:
 
     //setter
     public void settunjangan(double Tunjangan){
